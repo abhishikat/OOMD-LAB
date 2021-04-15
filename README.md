@@ -13,3 +13,9 @@ The class diagram shall include<br>
 2. Develop a complete IEEE standard SRS document with several requirements.<br>
 3. Draw appropriate class diagram. <br>
 (The class diagram shall also include delegation approaches (composition) in order to overcome the problems associated with multiple inheritance)<br>
+## MODEL-4: Create a class diagram for "Online Shopping System".
+1. Develop a problem statement for Online
+Shopping System.
+2. Develop a complete IEEE standard SRS document with several requirements.
+3. Draw appropriate class diagram.
+(The class diagram shall also include delegation approaches (composition) in order to overcome the problems associated with multiple inheritance)
