@@ -28,3 +28,13 @@ Shopping System.
           Develop a complete IEEE standard SRS document with several requirements.
           Draw appropriate class diagram and State diagram.
          (The class diagram shall also include delegation approaches (composition) in order to overcome the problems associated with multiple inheritance
+## MODEL-7 Draw appropriate State diagrams for
+ ### (i)  Online Shopping System. 
+ ### (ii) Stocks (Inventory) Maintenance System
+      These diagrams should match with the SRS drafted earlier for these systems.
+      
+## MODEL-8 Prepare Use Case Diagram, Activity Diagram and Sequence Diagram for the following systems
+   ### (i) College Information System
+   ### (ii) Hostel Management System
+   ### (iii) Stock Maintenance System 
+      Upload Use Case Diagram,  Activity Diagram and  Sequence Diagram of College Information System in the College Information System folder. Similarly for (ii) and (iii)
