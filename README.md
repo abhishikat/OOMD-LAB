@@ -23,3 +23,8 @@ Shopping System.
    ### 1.College Information System <br>
    ### 2.Hostel Management System.
    Use nested diagrams, nested states, concurrency (if required)
+
+## MODEL-6 Develop a problem statement for Coffee Vending Machine 
+          Develop a complete IEEE standard SRS document with several requirements.
+          Draw appropriate class diagram and State diagram.
+         (The class diagram shall also include delegation approaches (composition) in order to overcome the problems associated with multiple inheritance
