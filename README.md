@@ -38,3 +38,15 @@ Shopping System.
    ### (ii) Hostel Management System
    ### (iii) Stock Maintenance System 
       Upload Use Case Diagram,  Activity Diagram and  Sequence Diagram of College Information System in the College Information System folder. Similarly for (ii) and (iii)
+ 
+## MODEL-9 Prepare Use Case Diagram, Activity Diagram and Sequence Diagram for the following systems
+     Prepare Use Case Diagram, Activity Diagram and
+     Sequence Diagram for the following systems 
+ ### 1)  Coffee Vending Machine 
+ ### 2)  Online Shopping System
+ ### 3)  Railway reservation system
+      
+ ## MODEL-10 Prepare Use Case Diagram, Activity Diagram and Sequence Diagram for the following systems
+     
+    Draw Class, State, Use Case, Activity and Sequence diagram for
+   ### 1.) Graphics Editor
